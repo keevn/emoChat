@@ -43,11 +43,11 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-      backgroundColor: '#F5FCaa',
+      backgroundColor: '#F5FCFF',
   },
   welcome: {
     fontSize: 20,
-      textAlign: 'right',
+      textAlign: 'center',
     margin: 10,
   },
   instructions: {
