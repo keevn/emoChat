@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
   },
   welcome: {
     fontSize: 20,
-    textAlign: 'center',
+      textAlign: 'right',
     margin: 10,
   },
   instructions: {
